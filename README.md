@@ -3,8 +3,7 @@
 Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula Excel tingkat lanjut untuk keperluan analisis data. Setiap sheet menunjukkan penggunaan rumus yang berbeda dan penerapannya secara praktis.
 
 ---
-![{FILE DSA-EXCEL-1}](https://github.com/user-attachments/assets/8076c7b0-cf86-46d7-a138-67797cedef9a)
-
+📂 [Lihat File DSA-EXCEL-1.xlsx](https://github.com/achmadhavid/DSAREA/blob/main/tugas%20dsa%20excel/DSA-EXCEL-1.xlsx)
 ### 📁 Sheet 1: Index & Lookup
 
 - 🔍 **Mencari Nama dengan INDEX**  
@@ -27,7 +26,7 @@ Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula E
 
 ---
 
-## 📁 Folder Lain: Formula dan Logika
+📂 [Lihat File DSA-EXCEL-1.xlsx](https://github.com/achmadhavid/DSAREA/blob/main/tugas%20dsa%20excel/DSA-EXCEL-2.xlsx)
 
 ### 📄 Sheet 1: Ekstraksi Teks
 
@@ -65,6 +64,7 @@ Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula E
 
 ---
 
+📂 [Lihat File DSA-EXCEL-1.xlsx](https://github.com/achmadhavid/DSAREA/blob/main/tugas%20dsa%20excel/DSA-EXCEL-3.xlsx)
 ## 📁 Folder Tambahan: VLOOKUP, HLOOKUP & Pivot Table
 
 ### 📄 Sheet 1: VLOOKUP + LEFT/MID/RIGHT

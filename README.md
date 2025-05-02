@@ -3,6 +3,7 @@
 Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula Excel tingkat lanjut untuk keperluan analisis data. Setiap sheet menunjukkan penggunaan rumus yang berbeda dan penerapannya secara praktis.
 
 ---
+![{FILE DSA-EXCEL-1}](https://github.com/user-attachments/assets/8076c7b0-cf86-46d7-a138-67797cedef9a)
 
 ### 📁 Sheet 1: Index & Lookup
 
